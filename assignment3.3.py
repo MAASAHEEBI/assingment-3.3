@@ -6,21 +6,6 @@ No. of Upper case characters : 3
 No. of Lower case Characters : 12'''
 
  
-##def string_test(s):
-##    d={"U_CASE":0, "L_CASE":0}
-##    for c in s:
-##        if c.isupper():
-##           d["U_CASE"]+=1
-##        elif c.islower():
-##           d["L_CASE"]+=1
-##        else:
-##           pass
-##    print ("Original String : ", s)
-##    print ("No. of Upper case characters : ", d["U_CASE"])
-##    print ("No. of Lower case Characters : ", d["L_CASE"])
-##
-##string_test('The quick Brown Fox')
-
 
 
 def string_test():
